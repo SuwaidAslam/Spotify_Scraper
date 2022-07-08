@@ -52,7 +52,7 @@ $ pip install -r requirements.txt
 ```
 - Chrome browser must be installed (103 version)
 - Make sure you add your Spotify account credentials in the script
-- Run the script and enter keywords and number of track you want to scrape
+- Run the script and enter keywords and number of tracks you want to scrape
 
 ## Contact
 

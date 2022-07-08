@@ -9,7 +9,7 @@ import time
 import tkinter as tk
 
 # Enter your spotify account credidentials here
-email = "yourSpotifyEmailAdress"
+email = "yourSpotifyEmailAddress"
 password = "yourPassword"
 
 query = input("Input Keywords: ")

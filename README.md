@@ -12,9 +12,9 @@ This scraper will extract data about each track in bulk and save it to CSV file:
 
 - **Track Name**
 
-- **Artists Name**
+- **Artists Names**
 
-- **Artists Profile Link**
+- **Artists Profile Links**
 
 - **Album Name of the Track**
 
